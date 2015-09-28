@@ -1,0 +1,16 @@
+<!DOCTYPE RCC><RCC version="1.0">
+
+<qresource>
+    <file>imagens/icon.jpg</file>
+    <file>imagens/new.png</file>
+    <file>imagens/save.png</file>
+    <file>imagens/open.png</file>
+    <file>imagens/go.png</file>
+    <file>imagens/cut.png</file>
+    <file>imagens/copy.png</file>
+    <file>imagens/paste.png</file>
+    <file>imagens/campinho.png</file>
+</qresource>
+
+</RCC>
+
